@@ -1,2 +1,6 @@
 Assalam Alikum
+<<<<<<< HEAD
 askdfjlkasd
+=======
+jasdlfkjsadkl
+>>>>>>> c981f4699c11cb492f93280243af00c9d0901cac
